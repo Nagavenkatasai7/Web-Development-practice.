@@ -1,0 +1,30 @@
+#red /* # is used for id*/
+{
+    color: red;
+}
+
+#blue
+{
+    color: blue;
+}
+#orange
+{
+    color: orange;
+}
+#green
+{
+    color: green;
+}
+#yellow{
+    color: yellow;
+}
+/* '.' is used for class*/
+.color-title{
+    font-weight: normal;
+}
+/* we selected the tag and gave it the height and width*/
+img
+{
+    height: 200px;
+    width: 200px;
+}

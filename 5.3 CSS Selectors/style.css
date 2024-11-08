@@ -1,0 +1,30 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+p{
+  color: red;
+
+}
+/* '.' is used for class*/
+.note{
+  font-size: 20px;
+}
+/* # is used foor id*/
+#id-selector-demo{
+  color: green;
+  
+}
+/* we selected the tag li which is list*/
+
+li[valu="4"]{
+  color: blue;
+}
+/* universal tag which select the whole web page*/
+
+*{
+  text-align: center;
+}
